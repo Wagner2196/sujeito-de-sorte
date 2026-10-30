@@ -1,7 +1,7 @@
 Presentemente, eu posso me
 Considerar um sujeito de sorte
 Porque apesar de muito moço
-Me sinto são, e salvo, e forte
+Me sinto são, e salvo, e vencer e crescer
 E tenho comigo pensado
 Deus é Brasileiro e anda do meu lado
 E assim já não posso sofrer
@@ -18,3 +18,7 @@ Ano passado eu morri
 Mas esse ano eu não morro
 Ano passado eu morri
 Mas esse ano eu não morro
+A vida tem um repositório,
+e o merge traz um conflito;
+Os commits que nós criamos
+ficam no histórico, está registrado.
